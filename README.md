@@ -1,1 +1,7 @@
 # udacity_patient_data_project
+
+Getting medical treatment if you are sick or for prevention causes is the major source for people not to get sick seriously. The doctor's office is one of the key institutions of the health system helping improve public health. In some countries this is a scarce resource. However, you will find patients that did not show up for their appointment. This is a burden for the healthcare system as resources could be allocated more efficiently. In this analysis I will investigate some variables that may influence the decision for showing up or not. By knowing this, resources could be allocated more efficiently by having more knowledge about a patient and its likelihood to show up.
+
+The dataset that will be investigated contains information about patients and their appointment. The data is saved in a csv format and can be accessed easily with Jupyter Notebook. The information collected consists of appointment details like date and patient details like age, gender, neighbourhood and certain disease.
+
+The question that will be tried to answer is: Are the variables that can be associated to a patient that doesn't show up to an appointment. With this said the dependent variable is whether a patient shows up or not. After the data analysis it should be known if age, gender, SMS received, a certain neighbourhood or some disease can be used for better predict if a patient shows up or not.
